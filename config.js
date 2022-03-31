@@ -1,7 +1,7 @@
 const CONFIG = {
     titleWeb: "Chào buổi tối nhoo:>",
     introTitle: 'Hello Lọn :>',
-    introDesc: `Thì ra, mùa xuân hoa nở là vì Lọn :> `,
+    introDesc: `THÌ RA, MÙA XUÂN HOA NỞ LÀ VÌ LỌN:>  Mình có câu hỏi muốn hỏi nằ >< `,
     btnIntro: 'hê hê',
     title: 'Hông biết từ khi nào u mê Lọn nữa 😢 ',
     desc: 'Hông biết Lọn có thích tui hông á?',
