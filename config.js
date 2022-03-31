@@ -1,19 +1,19 @@
 const CONFIG = {
-    introTitle: 'Babe à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    titleWeb: "Chào buổi tối nhoo:>",
+    introTitle: 'Hello Lọn :> Kal nè:>',
+    introDesc: `Mình có câu này muốn hỏi Lọn lâu ời, mà hong có dám 😢 `,
+    btnIntro: 'hê hê',
+    title: 'Hông biết từ khi nào u mê Lọn nữa 😢 ',
+    desc: 'Hông biết Lọn có thích tui hông á?',
+    btnYes: 'Thích lắm <3',
+    btnNo: 'Đoán xem :3',
+    btnNo: 'Mình cũng hông biết :3',
+    btnNo: 'Không nha :3',
+    question: 'Sao mà thoát được hehe :>',
+    btnReply: 'Gửi cho bạn <3',
+    reply: 'Tại Kal vừa depzai vừa giỏi lại còn sống tìm cỏm :3, tui cũng thích Kal lâu ời á :3',
+    mess: 'Mình giỡn thôi :v. Lọn đừng để ý. Chỉ là muốn nói ra nỗi lòng hoy 😢 Nếu có hông thích thì cũng đừng ghét tui ớ😢. ',
+    messDesc: 'Tui biết tui hông có xứng với Lọn :v. Nhưng mà biết đâu cho tui cơ hội thì Lọn sẽ nghĩ khác thì sao :> Mình đợi câu trả lời từ Lọn nằ :))',
+    btnAccept: 'Mình đồng ý ><',
+    messLink: 'https://www.facebook.com/sa.lon.5283166' 
 }
